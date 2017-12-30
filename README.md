@@ -1,2 +1,2 @@
 # sandrasCookies
-Calculates total for an order of Sandra's Cookies
+Sandra’s Cookies – calculates the product, sales tax, shipping and final cost of the customer’s order.
